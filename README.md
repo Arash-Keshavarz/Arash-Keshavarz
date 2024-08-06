@@ -10,7 +10,8 @@
  🔭 I’m currently working on Image Reconstrction using Deep Learning approaches for EIT 
  
  🌱 I’m currently learning **GenAI, Transformers **
-
+ 
+- 📫 How to reach me **Arashkeshavarzx@gmail.com**
 ⚡ Fun fact **The idea of artificial neurons, which forms the basis of deep learning, was first proposed in the 1940s!**
 
  </div>
