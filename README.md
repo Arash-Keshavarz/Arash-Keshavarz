@@ -4,10 +4,16 @@
     <img src="./github-header-image.png" />
 </h1>
 
-<img align="right" alt="Coding" width="400" src=./Animation_code.gif>
 
-- 📫 How to reach me **Arashkeshavarzx@gmail.com**
+<div align="center">
+ 
+ 🔭 I’m currently working on Image Reconstrction using Deep Learning approaches for EIT 
+ 
+ 🌱 I’m currently learning **GenAI, Transformers **
 
+⚡ Fun fact **The idea of artificial neurons, which forms the basis of deep learning, was first proposed in the 1940s!**
+
+ </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
