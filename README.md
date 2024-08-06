@@ -1,4 +1,4 @@
- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 ![MasterHead](./github-header-image.png)
 <h3 align="center">A passionate Computer Vision | ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src=./Animation_code.gif>
