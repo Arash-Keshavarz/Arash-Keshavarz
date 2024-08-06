@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,opencv,python,jupyter,c,matlab,sklearn,vscode,github,git,linux" />
+    <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,opencv,python,c,matlab,sklearn,vscode,github,git,linux" />
     <br>
 </div>
 
