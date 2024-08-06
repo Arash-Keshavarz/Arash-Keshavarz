@@ -3,8 +3,7 @@
 <h1 align="center">
     <img src="./github-header-image.png" />
 </h1>
-![MasterHead](./github-header-image.png)
-<h3 align="center">A passionate Computer Vision | ML Engineer</h3>
+
 <img align="right" alt="Coding" width="400" src=./Animation_code.gif>
 
 - 📫 How to reach me **Arashkeshavarzx@gmail.com**
