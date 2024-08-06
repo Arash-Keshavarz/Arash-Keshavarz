@@ -1,4 +1,4 @@
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07](https://komarev.com/ghpvc/?username=Arash-Keshavarz)" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arash-keshavarz&label=Profile%20views&color=0e75b6&style=flat" alt="arash-keshavarz" /> </p>
 <h1 align="center">
     <img src="./github-header-image.png" />
 </h1>
