@@ -7,11 +7,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Image Reconstrction using Deep Learning approaches for EIT 
- 
- 🌱 I’m currently learning **GenAI, Transformers **
-  
-⚡ Fun fact **The idea of artificial neurons, which forms the basis of deep learning, was first proposed in the 1940s!**
+🔬 Currently working on **Hyperspectral Image Analysis with Deep Learning**  
+📚 Exploring **Vision-Language Models (VLMs)**
 
  </div>
 
