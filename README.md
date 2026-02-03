@@ -31,11 +31,11 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=light" />
   <br/><br/>
 
-  <p><b>MLOps, Cloud & Workflows</b></p>
+  <p><b>MLOps, Cloud & Data Versioning</b></p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow%20(DAGs)-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAGsHub-000000?style=for-the-badge&logo=dagshub&logoColor=white" />
   <br/><br/>
 
   <p><b>Languages & Tools</b></p>
