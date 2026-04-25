@@ -2,44 +2,92 @@
   <img src="./github-header-banner.png" alt="Header" width="100%" />
 </div>
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td>
-        <h1>Hi, I'm Arash Keshavarz! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F8CFF&width=435&lines=ML+Researcher;Hyperspectral+Anomaly+Detection;Cross-Domain+Representation+Learning;Computer+Vision+%26+Deep+Learning;Open+Source+Contributor" alt="Typing SVG" />
-        </a>
-      </td>
-      <td align="right" valign="center">
-        <img src="https://komarev.com/ghpvc/?username=arash-keshavarz&label=Views&color=0e75b6&style=for-the-badge" alt="arash-keshavarz" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
 <div align="center">
-  <p>
-    🔬 Currently working on <b>Hyperspectral Imaging (HSI) for physiological monitoring and anomaly detection</b><br>
-    🧠 Exploring <b>self-supervised representation learning and meta-learning for cross-domain HSI generalization</b><br>
-    📄 Published research on <b>hematoma age estimation from hyperspectral images using CNNs</b> · Journal of Imaging (2026)
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&width=500&lines=ML+Researcher+%7C+Hyperspectral+Anomaly+Detection;Self-Supervised+%26+Cross-Domain+Learning;Fraunhofer+IGD+%7C+University+of+Rostock" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="mailto:arash.keshavarz.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/arash-keshavarz-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://arash-keshavarz.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=githubpages&logoColor=7AA2F7" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arash-keshavarz&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</div>
+
+<br/>
+<hr/>
+
+## 👤 About Me
+
+I am an ML researcher specializing in **hyperspectral image analysis and anomaly detection**, currently working at the intersection of fundamental research and real-world application at **Fraunhofer IGD** and the **University of Rostock**.
+
+My work centers on a problem that matters for industrial inspection, medical imaging and beyond: building models that detect anomalies reliably across different materials, sensors and acquisition environments. I work with **Specim FX10/FX17** and **Cubert VNIR** hyperspectral cameras and develop deep learning methods for spectral-spatial representation learning, band selection and cross-domain generalization.
+
+- 🔬 Currently developing HSI pipelines for **physiological monitoring and anomaly detection**
+- 🧠 Exploring **self-supervised representation learning and meta-learning** for cross-domain HSI generalization  
+- 📄 Published in **Journal of Imaging (2026)** — hematoma age estimation from hyperspectral images using CNNs
+- 🎓 M.Sc. Information Technology, University of Rostock (expected August 2026)
+
+<hr/>
+
+## 🔬 Research Highlights
+
+<div align="center">
+  <table border="0" width="95%">
+    <tr>
+      <td align="center" width="33%" style="padding:10px">
+        <h4>📊 Hyperspectral Anomaly Detection</h4>
+        <sub>
+          Spatial-spectral CNN for hematoma age estimation from HSI medical images<br/>
+          Band selection: 204 channels reduced to task-relevant subset<br/>
+          +30% accuracy over baseline<br/>
+          <b>Published · Journal of Imaging (2026)</b>
+        </sub>
+      </td>
+      <td align="center" width="33%" style="padding:10px">
+        <h4>🌐 Cross-Domain HSI Generalization</h4>
+        <sub>
+          Investigating domain shift across subjects and acquisition conditions<br/>
+          Exploring self-supervised representation learning<br/>
+          Meta-learning for robust cross-site anomaly models<br/>
+          <b>Ongoing · Fraunhofer IGD & University of Rostock</b>
+        </sub>
+      </td>
+      <td align="center" width="33%" style="padding:10px">
+        <h4>⚡ EIT-based Force Estimation</h4>
+        <sub>
+          ML pipeline for thigh muscle force prediction from EIT sensor data<br/>
+          Custom 16-electrode wearable sensor belt<br/>
+          Physics-informed signal processing and deep learning<br/>
+          <b>M.Sc. Thesis · University of Rostock</b>
+        </sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
   <p><b>AI, ML & Deep Learning</b></p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=light" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <br/><br/>
 
   <p><b>Hyperspectral & Computer Vision</b></p>
@@ -58,50 +106,24 @@
   <br/><br/>
 
   <p><b>Languages & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,linux,git,github,vscode,flask&theme=light" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
-<br/>
 <hr/>
 
-<h2 align="center">🔬 Research Highlights</h2>
+## ⚡ GitHub Analytics
 
 <div align="center">
-  <table border="0" width="90%">
-    <tr>
-      <td align="center" width="33%">
-        <b>Hyperspectral Anomaly Detection</b><br/>
-        <sub>Spatial-spectral CNN for hematoma age estimation · Band selection reducing 204 channels to task-relevant subset · +30% accuracy over baseline · Published in <i>Journal of Imaging</i> (2026)</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>Cross-Domain HSI Generalization</b><br/>
-        <sub>Investigating domain shift in physiological HSI data across subjects and acquisition conditions · Exploring self-supervised representation learning and meta-learning for robust cross-site models</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>EIT-based Muscle Force Estimation</b><br/>
-        <sub>ML pipeline for thigh force prediction from electrical impedance tomography · Custom 16-electrode wearable sensor belt · M.Sc. Thesis · University of Rostock</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ GitHub Analytics</h2>
-
-<div align="center">
-  <p>
-    <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Arash-Keshavarz&count_private=true&theme=tokyonight&hide_border=true" alt="streak stats"/>
-    <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Arash-Keshavarz&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="readme stats" />
-  </p>
-  <br/>
-
-  <img alt="snake" src="https://raw.githubusercontent.com/Arash-Keshavarz/Arash-Keshavarz/output/github-contribution-grid-snake.svg" />
-
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Arash-Keshavarz&count_private=true&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Arash-Keshavarz&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="readme stats" />
   <br/><br/>
-
-  <img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Arash-Keshavarz&hide=HTML&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Arash-Keshavarz/Arash-Keshavarz/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+  <img width="50%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Arash-Keshavarz&hide=HTML&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </div>
 <br/>
