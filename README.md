@@ -8,7 +8,7 @@
       <td>
         <h1>Hi, I'm Arash Keshavarz! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F8CFF&width=435&lines=Machine+Learning+Engineer;Medical+Image+Processing;Computer+Vision+%26+Deep+Learning;MLOps+%26+Reproducible+Pipelines;Open+Source+Contributor" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F8CFF&width=435&lines=ML+Researcher;Hyperspectral+Anomaly+Detection;Cross-Domain+Representation+Learning;Computer+Vision+%26+Deep+Learning;Open+Source+Contributor" alt="Typing SVG" />
         </a>
       </td>
       <td align="right" valign="center">
@@ -20,9 +20,9 @@
 
 <div align="center">
   <p>
-    🔬 Currently working on <b>Hyperspectral Imaging (HSI) and rPPG for non-invasive physiological monitoring</b><br>
-    🧠 Exploring <b>Foundation Models (SAM, Grounding DINO) and Vision-Language Models</b><br>
-    📄 Published research on <b>hematoma age estimation from hyperspectral images using CNNs</b>
+    🔬 Currently working on <b>Hyperspectral Imaging (HSI) for physiological monitoring and anomaly detection</b><br>
+    🧠 Exploring <b>self-supervised representation learning and meta-learning for cross-domain HSI generalization</b><br>
+    📄 Published research on <b>hematoma age estimation from hyperspectral images using CNNs</b> · Journal of Imaging (2026)
   </p>
   <a href="mailto:arash.keshavarz.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -38,15 +38,15 @@
 
 <div align="center">
 
-  <p><b>AI, ML & Computer Vision</b></p>
+  <p><b>AI, ML & Deep Learning</b></p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=light" />
   <br/><br/>
 
-  <p><b>Foundation Models & Specialized Tools</b></p>
+  <p><b>Hyperspectral & Computer Vision</b></p>
+  <img src="https://img.shields.io/badge/Specim%20FX10%2FFX17-0057A8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cubert%20VNIR-6A0DAD?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/SAM-FF6F00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grounding%20DINO-34A853?style=for-the-badge&logoColor=white" />
   <br/><br/>
 
   <p><b>MLOps & Cloud</b></p>
@@ -71,16 +71,16 @@
   <table border="0" width="90%">
     <tr>
       <td align="center" width="33%">
-        <b>Hematoma Age Estimation</b><br/>
-        <sub>Spatial-spectral CNN on hyperspectral medical images · +30% accuracy over baseline · Published in <i>Journal of Imaging</i> (2026)</sub>
+        <b>Hyperspectral Anomaly Detection</b><br/>
+        <sub>Spatial-spectral CNN for hematoma age estimation · Band selection reducing 204 channels to task-relevant subset · +30% accuracy over baseline · Published in <i>Journal of Imaging</i> (2026)</sub>
+      </td>
+      <td align="center" width="33%">
+        <b>Cross-Domain HSI Generalization</b><br/>
+        <sub>Investigating domain shift in physiological HSI data across subjects and acquisition conditions · Exploring self-supervised representation learning and meta-learning for robust cross-site models</sub>
       </td>
       <td align="center" width="33%">
         <b>EIT-based Muscle Force Estimation</b><br/>
-        <sub>ML pipeline for thigh force prediction from electrical impedance tomography · Custom 16-electrode sensor belt · M.Sc. Thesis</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>Automated Video Annotation</b><br/>
-        <sub>Foundation Model pipeline (SAM, Grounding DINO, YOLO) · 70% reduction in manual labelling · Large-scale biomedical datasets</sub>
+        <sub>ML pipeline for thigh force prediction from electrical impedance tomography · Custom 16-electrode wearable sensor belt · M.Sc. Thesis · University of Rostock</sub>
       </td>
     </tr>
   </table>
